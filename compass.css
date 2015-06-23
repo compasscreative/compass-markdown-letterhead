@@ -134,6 +134,9 @@
      margin: 0;
    }
 
+   li {
+    margin-bottom: .8em;  
+   }
    ul ul,ul ol {
      margin-bottom: .4em;
    }
