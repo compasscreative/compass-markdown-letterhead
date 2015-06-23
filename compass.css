@@ -12,7 +12,7 @@
      -webkit-font-smoothing: antialiased;
      font-family: 'TradeGothic LT', Georgia, Arial,Verdana,sans-serif;
      font-size: 18px;
-     line-height: 1.35;
+     line-height: 1.4;
      margin: 0;
      padding-top: 0 !important;
    }
@@ -32,12 +32,12 @@
    }
 
    li {
-     margin-bottom: .8em;
+     margin-bottom: .4em;
      font-size: 110%;
    }
 
    li li {
-     font-size: 100%;
+     font-size: 88%;
    }
 
    li p {
@@ -136,7 +136,7 @@
    }
 
    ul ul,ul ol {
-     margin-bottom: .4em;
+     margin-bottom: .8em;
    }
 
    ul, ol {
@@ -364,4 +364,3 @@
        background-color: rgba(180, 237, 95, .5);
      }
    }
-
